@@ -31,6 +31,6 @@ layout | title | date | comments | archive
 post | Hello World | 2025-11-23 | true | false
 
 [![Python](https://img.shields.io/pypi/pyversions/tensorflow.svg)](https://badge.fury.io/py/tensorflow)<br>
-[![Choi's](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA6Rg1kgXjo1g3KVkt_uBuUW80Ee5D3wMbhQ&s)<br>
+![Choi's](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA6Rg1kgXjo1g3KVkt_uBuUW80Ee5D3wMbhQ&s)<br>
  
 chois로 와서 수정되었습니다.
