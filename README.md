@@ -6,6 +6,6 @@
   1. 좋은건 너만 알기
   2. 싫어도 너만 알기
 
-[링크이동](https://www.youtube.com/2labchois) <br>
+[링크이동](https://www.youtube.com/@2labchois) <br>
 
 chois로 와서 수정되었습니다.
